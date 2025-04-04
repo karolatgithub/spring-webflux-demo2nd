@@ -7,7 +7,7 @@ bedac w katalogu zrodel wykonac polecenie
 mvn -U clean package
 ```
 
-## zainstalowac bazde danych MongoDb z domyslnym portem 27017
+## zainstalowac baze danych MongoDb z domyslnym portem 27017
 
 ## uruchomienie
 bedac w katalogu zrodel przejsc do katalogu
